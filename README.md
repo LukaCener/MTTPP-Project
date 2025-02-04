@@ -2,6 +2,9 @@
 
 Ovaj projekt sadrži 5 testova za testiranje funkcionalnosti na stranici "Demo Web Shop". Testovi uključuju registraciju, prijavu, dodavanje proizvoda u listu želja, dodavanje proizvoda u košaricu te proces narudžbe.
 
+## Okruženje i alati za testiranje
+Testovi su izvršeni u **Visual Studio 2022** koristeći **C#** programski jezik. Kako bi se osigurala pouzdanost testova, korištene su **wait naredbe** od naprednijih alata. Ove naredbe omogućuju čekanje na određene uvjete prije izvođenja sljedećeg koraka, što je vrlo korisno pri testiranju dinamičkih web stranica. Također, radi lakšeg kreiranja testova, korišten je i alat **Katalon Recorder**. Ovaj alat omogućuje snimanje koraka tijekom ručnog testiranja, što olakšava generiranje skripti za testiranje.
+
 ## Testovi
 
 ### Registracija (Register)
