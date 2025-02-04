@@ -1,8 +1,8 @@
 # Demo Web Shop - Testiranje
 
-Ovaj projekt sadrži korake za testiranje funkcionalnosti na stranici "Demo Web Shop". Testovi uključuju registraciju, prijavu, dodavanje proizvoda u listu želja, dodavanje proizvoda u košaricu te proces narudžbe.
+Ovaj projekt sadrži 5 testova za testiranje funkcionalnosti na stranici "Demo Web Shop". Testovi uključuju registraciju, prijavu, dodavanje proizvoda u listu želja, dodavanje proizvoda u košaricu te proces narudžbe.
 
-## Koraci za testiranje
+## Testovi
 
 ### Registracija (Register)
 1. Kliknite na poveznicu "Register".
