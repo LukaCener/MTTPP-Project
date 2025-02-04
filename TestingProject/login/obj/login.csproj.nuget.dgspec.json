@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LAPTOP\\Desktop\\FAKS\\dipl. - 1. semestar\\testiranje\\TestingProject\\login\\login.csproj": {}
+    "C:\\Users\\LAPTOP\\Desktop\\tstiranje git\\MTTPP-Project\\TestingProject\\login\\login.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LAPTOP\\Desktop\\FAKS\\dipl. - 1. semestar\\testiranje\\TestingProject\\login\\login.csproj": {
+    "C:\\Users\\LAPTOP\\Desktop\\tstiranje git\\MTTPP-Project\\TestingProject\\login\\login.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LAPTOP\\Desktop\\FAKS\\dipl. - 1. semestar\\testiranje\\TestingProject\\login\\login.csproj",
+        "projectUniqueName": "C:\\Users\\LAPTOP\\Desktop\\tstiranje git\\MTTPP-Project\\TestingProject\\login\\login.csproj",
         "projectName": "login",
-        "projectPath": "C:\\Users\\LAPTOP\\Desktop\\FAKS\\dipl. - 1. semestar\\testiranje\\TestingProject\\login\\login.csproj",
+        "projectPath": "C:\\Users\\LAPTOP\\Desktop\\tstiranje git\\MTTPP-Project\\TestingProject\\login\\login.csproj",
         "packagesPath": "C:\\Users\\LAPTOP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LAPTOP\\Desktop\\FAKS\\dipl. - 1. semestar\\testiranje\\TestingProject\\login\\obj\\",
+        "outputPath": "C:\\Users\\LAPTOP\\Desktop\\tstiranje git\\MTTPP-Project\\TestingProject\\login\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LAPTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",

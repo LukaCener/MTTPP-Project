@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LAPTOP\\Desktop\\FAKS\\dipl. - 1. semestar\\testiranje\\TestingProject\\TestingProject\\register.csproj": {}
+    "C:\\Users\\LAPTOP\\Desktop\\tstiranje git\\MTTPP-Project\\TestingProject\\register\\register.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LAPTOP\\Desktop\\FAKS\\dipl. - 1. semestar\\testiranje\\TestingProject\\TestingProject\\register.csproj": {
+    "C:\\Users\\LAPTOP\\Desktop\\tstiranje git\\MTTPP-Project\\TestingProject\\register\\register.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LAPTOP\\Desktop\\FAKS\\dipl. - 1. semestar\\testiranje\\TestingProject\\TestingProject\\register.csproj",
+        "projectUniqueName": "C:\\Users\\LAPTOP\\Desktop\\tstiranje git\\MTTPP-Project\\TestingProject\\register\\register.csproj",
         "projectName": "register",
-        "projectPath": "C:\\Users\\LAPTOP\\Desktop\\FAKS\\dipl. - 1. semestar\\testiranje\\TestingProject\\TestingProject\\register.csproj",
+        "projectPath": "C:\\Users\\LAPTOP\\Desktop\\tstiranje git\\MTTPP-Project\\TestingProject\\register\\register.csproj",
         "packagesPath": "C:\\Users\\LAPTOP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LAPTOP\\Desktop\\FAKS\\dipl. - 1. semestar\\testiranje\\TestingProject\\TestingProject\\obj\\",
+        "outputPath": "C:\\Users\\LAPTOP\\Desktop\\tstiranje git\\MTTPP-Project\\TestingProject\\register\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LAPTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",

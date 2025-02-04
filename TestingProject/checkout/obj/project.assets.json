@@ -1168,11 +1168,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LAPTOP\\Desktop\\FAKS\\dipl. - 1. semestar\\testiranje\\TestingProject\\checkout\\checkout.csproj",
+      "projectUniqueName": "C:\\Users\\LAPTOP\\Desktop\\tstiranje git\\MTTPP-Project\\TestingProject\\checkout\\checkout.csproj",
       "projectName": "checkout",
-      "projectPath": "C:\\Users\\LAPTOP\\Desktop\\FAKS\\dipl. - 1. semestar\\testiranje\\TestingProject\\checkout\\checkout.csproj",
+      "projectPath": "C:\\Users\\LAPTOP\\Desktop\\tstiranje git\\MTTPP-Project\\TestingProject\\checkout\\checkout.csproj",
       "packagesPath": "C:\\Users\\LAPTOP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LAPTOP\\Desktop\\FAKS\\dipl. - 1. semestar\\testiranje\\TestingProject\\checkout\\obj\\",
+      "outputPath": "C:\\Users\\LAPTOP\\Desktop\\tstiranje git\\MTTPP-Project\\TestingProject\\checkout\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LAPTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",

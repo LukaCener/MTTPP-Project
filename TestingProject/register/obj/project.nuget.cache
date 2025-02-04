@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "67YiLLCsvmRK+H0dLv55G502GGBC7nAPdCzXvoqFFI3TlACWxNEVQ50jsRKI9CJEEG4gHBXHjoUISaAi9vZCnQ==",
+  "dgSpecHash": "Ux73hS58bWl6wghdbLN8OV3vQVF6KqwObUYQOKTAPacrKDLhz6VSNMMVE7hghxXYBdyrL00vZcjDwdecoGCRmg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LAPTOP\\Desktop\\FAKS\\dipl. - 1. semestar\\testiranje\\TestingProject\\TestingProject\\register.csproj",
+  "projectFilePath": "C:\\Users\\LAPTOP\\Desktop\\tstiranje git\\MTTPP-Project\\TestingProject\\register\\register.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LAPTOP\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
     "C:\\Users\\LAPTOP\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",

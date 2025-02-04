@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yJZ+98GtZO68IAf85m6hc46id4pTR1OLppi/FEVoQ5/K1co+MpRyCZ1AYfB8iTzD27UJkIZ9pQbBrDE/xu15vA==",
+  "dgSpecHash": "qOoLOOjHQ9YCHYkQccYiSRvjOmzZQiM9oV8c1XyBzrCxbtg2YgSyBJGgT1CTIfSN5CMTA6cd0IfEc5a1asP8Kw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LAPTOP\\Desktop\\FAKS\\dipl. - 1. semestar\\testiranje\\TestingProject\\addToWishlist\\addToWishlist.csproj",
+  "projectFilePath": "C:\\Users\\LAPTOP\\Desktop\\tstiranje git\\MTTPP-Project\\TestingProject\\addToWishlist\\addToWishlist.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LAPTOP\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
     "C:\\Users\\LAPTOP\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",

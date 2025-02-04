@@ -1168,11 +1168,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LAPTOP\\Desktop\\FAKS\\dipl. - 1. semestar\\testiranje\\TestingProject\\addToWishlist\\addToWishlist.csproj",
+      "projectUniqueName": "C:\\Users\\LAPTOP\\Desktop\\tstiranje git\\MTTPP-Project\\TestingProject\\addToWishlist\\addToWishlist.csproj",
       "projectName": "addToWishlist",
-      "projectPath": "C:\\Users\\LAPTOP\\Desktop\\FAKS\\dipl. - 1. semestar\\testiranje\\TestingProject\\addToWishlist\\addToWishlist.csproj",
+      "projectPath": "C:\\Users\\LAPTOP\\Desktop\\tstiranje git\\MTTPP-Project\\TestingProject\\addToWishlist\\addToWishlist.csproj",
       "packagesPath": "C:\\Users\\LAPTOP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LAPTOP\\Desktop\\FAKS\\dipl. - 1. semestar\\testiranje\\TestingProject\\addToWishlist\\obj\\",
+      "outputPath": "C:\\Users\\LAPTOP\\Desktop\\tstiranje git\\MTTPP-Project\\TestingProject\\addToWishlist\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LAPTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
